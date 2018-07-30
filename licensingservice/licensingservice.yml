@@ -1,6 +1,6 @@
 example.property: "I AM IN THE DEFAULT"
 spring.jpa.database: "POSTGRESQL"
-spring.datasource.platform:  "postgres"
+spring.datasource.platform:  "postgresql"
 spring.jpa.show-sql: "true"
 spring.jpa.hibernate.ddl-auto: "none"
 spring.database.driverClassName: "org.postgresql.Driver"
